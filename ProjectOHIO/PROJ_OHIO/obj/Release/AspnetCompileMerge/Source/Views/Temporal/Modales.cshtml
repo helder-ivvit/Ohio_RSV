@@ -1,0 +1,49 @@
+﻿
+<div class="modal fade" id="modal-sm-procesar_vt_moce" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header btn-primary">
+                <h4 class="modal-title" id="titulo_modal_valor_poliza2">Procesar Vida Temporal MOCE<b style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;(Abril-2024)</b></h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="form-horizontal" id="frmProcesaValorPoliza">
+
+                    <input type="hidden" id="v_anio_vp" name="v_anio_vp" value="">
+                    <input type="hidden" id="v_mes_vp" name="v_mes_vp" value="">
+
+                    <div class="row">
+
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label for="exampleInputBorder">Moneda</label>
+
+                                <select id="v_moneda_vp" name="v_moneda_vp" class="form-control form-control-sm select2 select2-danger" data-dropdown-css-class="select2-danger">
+                                    <option selected="selected" value="">Seleccione</option>
+                                    <option value="S">Soles</option>
+                                    <option value="D">Dolares</option>
+                                </select>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </form>
+            </div>
+
+            <div class="modal-footer justify-content-between">
+
+                <button id="btnCerrar" type="button" class="btn btn-secondary" data-dismiss="modal">&nbsp;&nbsp;Cerrar&nbsp;&nbsp;</button>
+                <button id="btnGuardar" type="button" class="btn btn-primary toastrDefaultSuccess" onclick="GuardarVP()">Guardar</button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+

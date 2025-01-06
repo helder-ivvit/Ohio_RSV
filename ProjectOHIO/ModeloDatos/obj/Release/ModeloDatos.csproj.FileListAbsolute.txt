@@ -1,0 +1,48 @@
+D:\_ProyectosW\Restaurant_MVC\Restaurant\ModeloDatos\bin\Release\ModeloDatos.dll
+D:\_ProyectosW\Restaurant_MVC\Restaurant\ModeloDatos\bin\Release\ModeloDatos.pdb
+D:\_ProyectosW\Restaurant_MVC\Restaurant\ModeloDatos\obj\Release\ModeloDatos.dll
+D:\_ProyectosW\Restaurant_MVC\Restaurant\ModeloDatos\obj\Release\ModeloDatos.pdb
+D:\_ProyectosW\Restaurant_MVC\Restaurant\ModeloDatos\obj\Release\ModeloDatos.csprojAssemblyReference.cache
+D:\_ProyectosW\Restaurant_MVC\Restaurant\ModeloDatos\obj\Release\ModeloDatos.csproj.CoreCompileInputs.cache
+D:\_ProyectosW\Restaurant_MVC\Restaurant\ModeloDatos\obj\Release\ModeloDatos.csproj.CopyComplete
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\bin\Release\ModeloDatos.dll
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\bin\Release\ModeloDatos.pdb
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Release\ModeloDatos.csproj.AssemblyReference.cache
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Release\ModeloDatos.csproj.CoreCompileInputs.cache
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Release\ModeloDatos.csproj.CopyComplete
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Release\ModeloDatos.dll
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Release\ModeloDatos.pdb
+D:\JUCHL2021\WebPadron\ModeloDatos\bin\Release\ModeloDatos.dll
+D:\JUCHL2021\WebPadron\ModeloDatos\bin\Release\ModeloDatos.pdb
+D:\JUCHL2021\WebPadron\ModeloDatos\obj\Release\ModeloDatos.csproj.AssemblyReference.cache
+D:\JUCHL2021\WebPadron\ModeloDatos\obj\Release\ModeloDatos.csproj.CoreCompileInputs.cache
+D:\JUCHL2021\WebPadron\ModeloDatos\obj\Release\ModeloDatos.dll
+D:\JUCHL2021\WebPadron\ModeloDatos\obj\Release\ModeloDatos.pdb
+D:\JUCHL2021\WebPadron\ModeloDatos\obj\Release\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\bin\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\bin\Release\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.csproj.AssemblyReference.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Release\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.csproj.AssemblyReference.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Release\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Release\ModeloDatos.csproj.AssemblyReference.cache
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\bin\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\bin\Release\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\obj\Release\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\obj\Release\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\obj\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\obj\Release\ModeloDatos.pdb

@@ -1,0 +1,115 @@
+﻿@Html.Partial("Modales")
+
+<div class="content-header" id="FrmBuscarPeriodo">
+    <div class="container-fluid">
+        <div class="invoice p-3 mb-3">
+            <div class="row mb-2">
+
+                <div class="col-sm-3">
+                    <h1 class="m-0">Apertura de Periodos</h1>
+                </div><!-- /.col -->
+
+                <div class="col-sm-1">
+                    <input class="form-control form-control-sm" maxlength="4" onkeypress="return soloNum(event)" type="text" id="v_anio_buscar" name="v_anio_buscar" placeholder="Año">
+                </div>
+
+                <div class="col-sm-1">
+                    <button type="button" style="width: 100px; background-color:#00796B;color:white;" class="btn btn-block btn-block btn-sm" onclick="loadDataIt()">&nbsp;&nbsp;&nbsp;Buscar&nbsp;&nbsp;&nbsp;<i class="fas fa-search"></i>&nbsp;&nbsp;&nbsp;</button>
+                    @*<a href="#" class="dropdown-item" onclick="limpiarFormularioPeriodo()"><i class="fas fa-window-close"></i>&nbsp;&nbsp;&nbsp;CERRAR</a>*@
+                    &nbsp;&nbsp;
+                </div>
+
+                <div class="col-sm-1">
+                    <button type="button" style="width: 100px; background-color: #F44336; color: white; " class="btn btn-block btn-block btn-sm" onclick="limpiarFormularioPeriodo()">&nbsp;&nbsp;&nbsp;Nuevo&nbsp;&nbsp;&nbsp;<i class="fas fa-plus"></i>&nbsp;&nbsp;&nbsp;</button>
+                </div>
+
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")">Home</a></li>
+                        <li class="breadcrumb-item active">Periodos</li>
+                    </ol>
+                </div><!-- /.col -->
+
+            </div><!-- /.row -->
+            <div class="row">
+
+                @*<input type="hidden" name="busca_origen" id="busca_origen" value="@ViewData["origen"]" />
+                    <input type="hidden" name="busca_intvisita2" id="busca_intvisita2" value="@ViewData["idvisita"]" />
+                    <input type="hidden" name="busca_numreq" id="busca_numreq" value="@ViewData["numreq"]" />
+
+                    <input type="hidden" name="p_busqueda" id="p_busqueda" value="@ViewData["busqueda_itemizado"]" />
+                    <input type="hidden" name="p_inicio" id="p_inicio" value="@ViewData["fini_itemizado"]" />
+                    <input type="hidden" name="p_fin" id="p_fin" value="@ViewData["ffin_itemizado"]" />
+                    <input type="hidden" name="p_estado" id="p_estado" value="@ViewData["estado_itemizado"]" />*@
+
+                @*<div class="col-sm-2 mb-1 invoice-col">
+                        Estado
+                        <select id="activo" onchange="listaritemizados();" class="form-control form-control-sm">
+                            <option value="1" selected="selected">Activo</option>
+                            <option value="0">Inactivo</option>
+                        </select>
+                    </div>*@
+
+
+                @Html.Hidden("RedirectVisita2", Url.Action("Index2", "Visita", new { origen = 100, busqueda = 200, fini = 300, ffin = 400, estado = 500 }))
+
+
+                @*<div class="col-sm-1 mb-1 invoice-col">
+
+                        <button type="button" class="btn btn-block btn-danger btn-sm" onclick="limpiarFormularioItemizado('@ViewData["origen"]', '@ViewData["numreq"]')">&nbsp;&nbsp;&nbsp;<i class="fas fa-plus"></i>&nbsp;&nbsp;&nbsp;</button>
+
+                    </div>*@
+
+
+                @*<div class="col-sm-1 mb-1 invoice-col">
+                        &nbsp;
+                        <button type="button" class="btn btn-block btn-warning btn-sm" onclick="impresionItemizado('@ViewData["origen"]', '@ViewData["numreq"]', '@ViewData["asunto"]')">&nbsp;&nbsp;&nbsp;<i class="fas fa-print"></i>&nbsp;&nbsp;&nbsp;</button>
+
+                    </div>*@
+
+                @*<div class="col-sm-1 mb-1 invoice-col">
+                        &nbsp;
+                        <button type="button" class="btn btn-block btn-success btn-sm" onclick="inicializarCopy('@ViewData["origen"]', '@ViewData["numreq"]')">&nbsp;&nbsp;&nbsp;<i class="fas fa-copy"></i>&nbsp;&nbsp;&nbsp;</button>
+
+                    </div>*@
+
+                @*<div class="col-sm-1 mb-1 invoice-col">
+                        &nbsp;
+                        <button type="button" class="btn btn-block btn-success btn-sm" onclick="inicializarExcel('@ViewData["origen"]', '@ViewData["numreq"]')">&nbsp;&nbsp;&nbsp;<i class="fas fa-file-excel"></i>&nbsp;&nbsp;&nbsp;</button>
+
+                    </div>*@
+
+                @*<div class="col-sm-1 mb-1 invoice-col">
+                        &nbsp;
+                        <button type="button" title="Regresar" onclick="regresar_a_visita2('@ViewData["origen"]','@ViewData["busqueda_itemizado"]','@ViewData["fini_itemizado"]','@ViewData["ffin_itemizado"]',@ViewData["estado_itemizado"]);" class="btn btn-block btn-primary btn-sm"><i class="fas fa-arrow-alt-circle-left"></i></button>
+
+                    </div>*@
+
+            </div>
+            <br />
+
+            @Html.Partial("Listar")
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/Scripts/Periodo.js"></script>
+
+    <script>
+        //function regresar_a_visita2(_origen, _busqueda, _fini, _ffin, _estado) {
+        //    //location.href = 'Url.Action("Index", "Visita")';
+
+        //    var url = $("#RedirectVisita2").val();
+        //    url = url.replace("100", _origen);
+        //    url = url.replace("200", _busqueda);
+        //    url = url.replace("300", _fini);
+        //    url = url.replace("400", _ffin);
+        //    url = url.replace("500", _estado);
+
+        //    //alert(url);
+        //    location.href = url;
+        //}
+    </script>
+}

@@ -1,0 +1,273 @@
+﻿@model System.Data.DataTable
+@using System.Data
+
+<!-- Main Sidebar Container -->
+<aside class="main-sidebar sidebar-light-primary elevation-4">
+    <!-- Brand Logo -->
+    <a href="@Url.Action("Index", "Home")" class="brand-link">
+        @*<img src="~/Content/Design_AdminLTE/dist/img/AdminLTELogo.png" alt="Disec Logo" class="brand-image img-circle elevation-3" style="opacity: .8">*@
+        <div class="row">
+
+            <div class="col-sm-3" style="background-color: white; display: flex; justify-content: center; align-items: center;">
+                <img src="~/Content/LOGO/logo_ohio_img.png" alt="Ohio National Logo" class="brand-image img-circle elevation-4" style="opacity: .8">
+            </div>
+            <div class="col-sm-9">
+                <span class="brand-text font-weight-bold">Ohio National<br>Seguros de Vida S.A.</span>
+            </div>
+                
+
+            </div>
+
+
+</a>
+    
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <!-- Sidebar user panel (optional) -->
+        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+            <!--<div class="image">-->
+                @*<img src="~/Content/Design_AdminLTE/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">*@
+                <!--<img src="~/Content/LOGO/usuario.png" class="img-circle elevation-2" alt="User Image">
+            </div>-->
+            <div class="info">
+                <a href="@Url.Action("Index", "Home")" class="d-block">Bienvenido @Session["User"]</a>
+            </div>
+        </div>
+
+        <!-- SidebarSearch Form -->
+        @*<div class="form-inline">
+                <div class="input-group" data-widget="sidebar-search">
+                    <input class="form-control form-control-sidebar" type="search" placeholder="Search" aria-label="Search">
+                    <div class="input-group-append">
+                        <button class="btn btn-sidebar">
+                            <i class="fas fa-search fa-fw"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>*@
+
+        <!-- Sidebar Menu -->
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+                <!-- Add icons to the links using the .nav-icon class
+    with font-awesome or any other icon font library -->
+                @*@foreach (System.Data.DataRow nRow1 in Model.Rows)
+        {
+
+            <li class="nav-item">
+                <a href="#" class="nav-link">
+                    <i class="nav-icon fas @nRow1["icono"]"></i>
+                    <p>
+                        @nRow1["nombre"]
+                        <i class="fas fa-angle-left right"></i>
+                    </p>
+                </a>
+                @{
+                    ModeloNegocio.MyNegocio nObj2 = new ModeloNegocio.MyNegocio();
+                    DataTable nDT_Parametros2;
+                    nDT_Parametros2 = nObj2.Obtener_Listado("sp_opcion_listar", @nRow1["id_modulo"]).Tables[0];
+
+                    var accion = "";
+                    var controlador = "";
+                    var icono = "";
+                    var opcion = "";
+
+                }
+                @foreach (System.Data.DataRow nRow2 in nDT_Parametros2.Rows)
+                {
+                    accion = @nRow2["accion"].ToString();
+                    controlador = @nRow2["controlador"].ToString();
+                    icono = @nRow2["icono"].ToString();
+                    opcion = @nRow2["nombre"].ToString();
+
+                    <ul class="nav nav-treeview">
+                        <li class="nav-item">
+                            <a href="@Url.Action(accion, controlador)" class="nav-link">
+                                <i class="@icono nav-icon"></i>
+                                <p>@opcion</p>
+                            </a>
+                        </li>
+                    </ul>
+                }
+            </li>
+         }*@
+
+
+
+                <li class="nav-item">
+                    <a href="@Url.Action("Index", "Configuracion")" class="nav-link bg-blue">
+                        <i class="nav-icon fas fa-chart-pie"></i>
+                        <p>
+                            CONFIGURACI&Oacute;N
+                            @*<i class="fas fa-angle-left right"></i>*@
+                        </p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="@Url.Action("Index", "Periodo")" class="nav-link bg-blue">
+                        <i class="nav-icon fas fa-chart-pie"></i>
+                        <p>
+                            PERIODOS
+                            @*<i class="fas fa-angle-left right"></i>*@
+                        </p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="@Url.Action("Index", "Universal")" class="nav-link bg-blue">
+                        <i class="nav-icon fas fa-chart-pie"></i>
+                        <p>
+                            VIDA UNIVERSAL
+                            @*<i class="fas fa-angle-left right"></i>*@
+                        </p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="@Url.Action("Index", "Temporal")" class="nav-link bg-blue">
+                        <i class="nav-icon fas fa-chart-pie"></i>
+                        <p>
+                            VIDA TEMPORAL
+                            @*<i class="fas fa-angle-left right"></i>*@
+                        </p>
+                    </a>
+                </li>
+
+                @*<li class="nav-item">
+                    <a href="@Url.Action("Index", " Moce")" class="nav-link bg-blue">
+                        <i class="nav-icon fas fa-chart-pie"></i>
+                        <p>
+                            MOCE
+                            <i class="fas fa-angle-left right"></i>
+                        </p>
+                    </a>
+                </li>*@
+
+                <li class="nav-item">
+                    <a href="#" onclick="Salir()" class="nav-link bg-blue">
+                        <i class="nav-icon fas fa-sign-out-alt"></i>
+                        <p>
+                            SALIR
+                            @*<i class="fas fa-angle-left right"></i>*@
+                        </p>
+                    </a>
+                </li>
+                @*<li class="nav-item">
+            <a href="#" class="nav-link">
+                <i class="nav-icon fas fa-tree"></i>
+                <p>
+                    Configuración
+                    <i class="fas fa-angle-left right"></i>
+                </p>
+            </a>
+            <ul class="nav nav-treeview">
+                <li class="nav-item">
+                    <a href="@Url.Action("Index","Parametro")" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Parametros</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/UI/icons.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Periodo Anual</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/UI/buttons.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Doc. Identidad</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/UI/sliders.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Entidad</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/UI/modals.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Dependencias</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/UI/navbar.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Cargos</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/UI/timeline.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Funcionarios</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/UI/ribbons.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Documentos</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/UI/ribbons.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Numeración</p>
+                    </a>
+                </li>
+            </ul>
+        </li>
+        <li class="nav-item">
+            <a href="#" class="nav-link">
+                <i class="nav-icon fas fa-edit"></i>
+                <p>
+                    Tramite Documentario
+
+                    <i class="fas fa-angle-left right"></i>
+
+                </p>
+            </a>
+            <ul class="nav nav-treeview">
+                <li class="nav-item">
+                    <a href="@Url.Action("Index","Solicitud")" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Nueva Solicitud</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/forms/advanced.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Bandeja de Entrada</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/forms/editors.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Bandeja de Gerencia</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/forms/validation.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Bandeja de Funcionario</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="pages/forms/validation.html" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Reportes</p>
+                    </a>
+                </li>
+            </ul>
+        </li>*@
+
+
+
+
+            </ul>
+        </nav>
+        <!-- /.sidebar-menu -->
+    </div>
+    <!-- /.sidebar -->
+</aside>

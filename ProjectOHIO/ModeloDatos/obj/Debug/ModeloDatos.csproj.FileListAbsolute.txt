@@ -1,0 +1,83 @@
+D:\_ProyectosW\Personal_Web\PersonalWeb\ModeloDatos\obj\Debug\ModeloDatos.csprojResolveAssemblyReference.cache
+D:\_ProyectosW\Personal_Web\PersonalWeb\ModeloDatos\bin\Debug\ModeloDatos.dll
+D:\_ProyectosW\Personal_Web\PersonalWeb\ModeloDatos\bin\Debug\ModeloDatos.pdb
+D:\_ProyectosW\Personal_Web\PersonalWeb\ModeloDatos\bin\Debug\MySql.Data.dll
+D:\_ProyectosW\Personal_Web\PersonalWeb\ModeloDatos\bin\Debug\MySql.Web.dll
+D:\_ProyectosW\Personal_Web\PersonalWeb\ModeloDatos\obj\Debug\ModeloDatos.dll
+D:\_ProyectosW\Personal_Web\PersonalWeb\ModeloDatos\obj\Debug\ModeloDatos.pdb
+D:\_ProyectosW\Personal_Web\PersonalWebMVC\ModeloDatos\bin\Debug\ModeloDatos.dll
+D:\_ProyectosW\Personal_Web\PersonalWebMVC\ModeloDatos\bin\Debug\ModeloDatos.pdb
+D:\_ProyectosW\Personal_Web\PersonalWebMVC\ModeloDatos\bin\Debug\MySql.Data.dll
+D:\_ProyectosW\Personal_Web\PersonalWebMVC\ModeloDatos\bin\Debug\MySql.Web.dll
+D:\_ProyectosW\Personal_Web\PersonalWebMVC\ModeloDatos\obj\Debug\ModeloDatos.csprojResolveAssemblyReference.cache
+D:\_ProyectosW\Personal_Web\PersonalWebMVC\ModeloDatos\obj\Debug\ModeloDatos.dll
+D:\_ProyectosW\Personal_Web\PersonalWebMVC\ModeloDatos\obj\Debug\ModeloDatos.pdb
+D:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\bin\Debug\ModeloDatos.dll
+D:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\bin\Debug\ModeloDatos.pdb
+D:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Debug\ModeloDatos.csprojAssemblyReference.cache
+D:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+D:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Debug\ModeloDatos.csproj.CopyComplete
+D:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Debug\ModeloDatos.dll
+D:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Debug\ModeloDatos.pdb
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\bin\Debug\ModeloDatos.dll
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\bin\Debug\ModeloDatos.pdb
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Debug\ModeloDatos.csproj.CopyComplete
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Debug\ModeloDatos.dll
+E:\_ProyectosW\Restaurant_MVC\Restaurant_21\ModeloDatos\obj\Debug\ModeloDatos.pdb
+D:\JUCHL2021\PadronUsuarios\ModeloDatos\bin\Debug\ModeloDatos.dll
+D:\JUCHL2021\PadronUsuarios\ModeloDatos\bin\Debug\ModeloDatos.pdb
+D:\JUCHL2021\PadronUsuarios\ModeloDatos\obj\Debug\ModeloDatos.csproj.AssemblyReference.cache
+D:\JUCHL2021\PadronUsuarios\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+D:\JUCHL2021\PadronUsuarios\ModeloDatos\obj\Debug\ModeloDatos.dll
+D:\JUCHL2021\PadronUsuarios\ModeloDatos\obj\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROYECTO\ModeloDatos\bin\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROYECTO\ModeloDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROYECTO\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROYECTO\ModeloDatos\obj\Debug\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROYECTO\ModeloDatos\obj\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROYECTO\ModeloDatos\obj\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\VERSIONES\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\VERSIONES\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\VERSIONES\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.AssemblyReference.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\VERSIONES\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\VERSIONES\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\VERSIONES\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\VERSIONES\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION-2\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION-2\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION-2\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.AssemblyReference.cache
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION-2\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION-2\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION-2\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION-2\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.pdb
+D:\DELL\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.dll
+D:\DELL\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.pdb
+D:\DELL\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+D:\DELL\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CopyComplete
+D:\DELL\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.dll
+D:\DELL\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloDatos\obj\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\bin\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\obj\Debug\ModeloDatos.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\obj\Debug\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloDatos\obj\Debug\ModeloDatos.pdb

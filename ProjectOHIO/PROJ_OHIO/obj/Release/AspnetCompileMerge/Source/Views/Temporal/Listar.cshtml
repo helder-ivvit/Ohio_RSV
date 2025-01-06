@@ -1,0 +1,133 @@
+﻿
+
+<div class="row">
+    <div class="col-md-12">
+
+        <table class="table table-responsive-sm">
+            <thead id="cabecera_objeto_uni">
+                <tr>
+                    <th style="width: 100px">
+
+                    </th>
+                    <th>AÑO</th>
+                    <th>MES</th>
+                    <th>DATA POLIZAS (S/.)</th>
+                    <th>DATA POLIZAS (US$)</th>
+                    @*<th>DATA COBRANZAS (S/.)</th>
+                    <th>DATA COBRANZAS (US$)</th>
+                    <th>DATA ENDOSOS</th>*@
+                </tr>
+            </thead>
+
+            <tbody id="tabla_objeto_uni">
+                <tr>
+                        <td style="width: 100px">
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-default"><i class="fas fa-cog"></i></button>
+                                <button type="button" class="btn btn-default dropdown-toggle dropdown-icon" data-toggle="dropdown">
+                                    <span class="sr-only">Toggle Dropdown</span>
+                                </button>
+                                <div class="dropdown-menu" role="menu">
+                                    <a href="#" class="dropdown-item" onclick=""><i class="fas fa-clone"></i>&nbsp;&nbsp;&nbsp;Resultados Valor Poliza</a>
+                                    <a href="#" class="dropdown-item" onclick=""><i class="fas fa-clone"></i>&nbsp;&nbsp;&nbsp;Resultados Reserva Matematica VU</a>
+                                </div>
+                            </div>
+                        </td>
+                        <td style="color:orange;">2024</td>
+                        <td style="color:orange;">Enero</td>
+                        <td>Si</td>
+                        <td>Si</td>
+                        @*<td>Si</td>
+                        <td>Si</td>
+                        <td>Si</td>*@
+                    </tr>
+                    <tr>
+                        <td style="width: 100px">
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-default"><i class="fas fa-cog"></i></button>
+                                <button type="button" class="btn btn-default dropdown-toggle dropdown-icon" data-toggle="dropdown">
+                                    <span class="sr-only">Toggle Dropdown</span>
+                                </button>
+                                <div class="dropdown-menu" role="menu">
+                                    <a href="#" class="dropdown-item" onclick=""><i class="fas fa-clone"></i>&nbsp;&nbsp;&nbsp;Resultados Valor P&oacute;liza</a>
+                                    <a href="#" class="dropdown-item" onclick=""><i class="fas fa-clone"></i>&nbsp;&nbsp;&nbsp;Resultados Reserva Matematica VU</a>
+                                </div>
+                            </div>
+                        </td>
+                        <td style="color:orange;">2024</td>
+                        <td style="color:orange;">Febrero</td>
+                        <td>Si</td>
+                        <td>No</td>
+                        @*<td>Si</td>
+                        <td>No</td>
+                        <td>Si</td>*@
+                    </tr>
+                    <tr>
+                        <td style="width: 100px">
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-default"><i class="fas fa-cog"></i></button>
+                                <button type="button" class="btn btn-default dropdown-toggle dropdown-icon" data-toggle="dropdown">
+                                    <span class="sr-only">Toggle Dropdown</span>
+                                </button>
+                                <div class="dropdown-menu" role="menu">
+                                    <a href="#" class="dropdown-item" onclick=""><i class="fas fa-clone"></i>&nbsp;&nbsp;&nbsp;Resultados Valor P&oacute;liza</a>
+                                    <a href="#" class="dropdown-item" onclick=""><i class="fas fa-clone"></i>&nbsp;&nbsp;&nbsp;Resultados Reserva Matem&aacute;tica VU</a>
+                                </div>
+                            </div>
+                        </td>
+                        <td style="color:orange;">2024</td>
+                        <td style="color:orange;">Marzo</td>
+                        <td>Si</td>
+                        <td>Si</td>
+                        @*<td>Si</td>
+                        <td>Si</td>
+                        <td>No</td>*@
+                    </tr>
+                    <tr>
+                        <td style="width: 100px">
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-default"><i class="fas fa-cog"></i></button>
+                                <button type="button" class="btn btn-default dropdown-toggle dropdown-icon" data-toggle="dropdown">
+                                    <span class="sr-only">Toggle Dropdown</span>
+                                </button>
+                                <div class="dropdown-menu" role="menu">
+                                    <a href="#" class="dropdown-item" onclick="mostrar_form_polizas()"><i class="fas fa-database"></i>&nbsp;&nbsp;&nbsp;Cargar Data de P&oacute;lizas</a>
+                                    @*<a href="#" class="dropdown-item" onclick="mostrar_form_cobranzas()"><i class="fas fa-database"></i>&nbsp;&nbsp;&nbsp;Cargar Data de Cobranzas</a>
+        <a href="#" class="dropdown-item" onclick="mostrar_form_endosos()"><i class="fas fa-database"></i>&nbsp;&nbsp;&nbsp;Cargar Data de Endosos</a>*@
+                                <a href="#" class="dropdown-item" onclick=""><i class="fas fa-cogs"></i>&nbsp;&nbsp;&nbsp;Procesar Reserva Matem&aacute;tica VT</a>
+                                <a href="#" class="dropdown-item" onclick=""><i class="fas fa-clone"></i>&nbsp;&nbsp;&nbsp;Resultados Reserva Matem&aacute;tica VT</a>
+                                <a href="#" class="dropdown-item" onclick="CalcularVTMoce(2024,5,'Abril')"><i class="fas fa-cogs"></i>&nbsp;&nbsp;&nbsp;Procesar Reserva Matem&aacute;tica MOCE</a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>2024</td>
+                        <td>Abril</td>
+                        <td>Si</td>
+                        <td>Si</td>
+                        @*<td>Si</td>
+                        <td>Si</td>
+                        <td>Si</td>*@
+                    </tr>
+            </tbody>
+
+        </table>
+
+        <div class="card-footer clearfix">
+            <ul id="paginado_uni" class="pagination pagination-sm m-0 float-right">
+
+                <li class="page-item"><a class="page-link" href="#">&laquo;</a></li>
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item"><a class="page-link" href="#">&raquo;</a></li>
+
+            </ul>
+        </div>
+
+
+    </div>
+</div>
+
+
+
+

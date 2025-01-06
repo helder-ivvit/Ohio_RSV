@@ -1,0 +1,131 @@
+﻿
+<div class="modal fade" id="modal-dtramite">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="titulo_modal">Derivar</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="form-horizontal" id="frmCargoRegistrar">
+
+                    <input type="hidden" id="v_id" name="v_id" value="0">
+
+                    <div class="row">
+
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label for="exampleInputBorder">Proveido</label>
+                                <textarea class="form-control form-control-sm" rows="1" placeholder="Asunto"></textarea>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-1">
+                            <div class="form-group">
+                                <label for="exampleInputBorder">Plazo</label>
+                                <input class="form-control form-control-sm" type="text" id="exampleInputBorder" placeholder="Plazo">
+                            </div>
+                        </div>
+
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="exampleInputBorder">Vencimiento</label>
+                                <div class="input-group date" id="reservationdate" data-target-input="nearest">
+                                    <input type="text" class="form-control form-control-sm datetimepicker-input" value="15/03/2022" data-target="#reservationdate" />
+                                    <div class="input-group-append" data-target="#reservationdate" data-toggle="datetimepicker">
+                                        <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="exampleInputBorder">Prioridad</label>
+                                <select class="form-control form-control-sm select2 select2-primary" data-dropdown-css-class="select2-danger" style="width: 100%;">
+                                    <option selected="selected">Alta</option>
+                                    <option>Media</option>
+                                    <option>Baja</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="exampleInputBorder">Con Rpta</label>
+
+                                <div class="input-group mb-3">
+
+                                    <input type="checkbox" name="my-checkbox" checked data-bootstrap-switch data-off-color="danger" data-on-color="success">
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="col-sm-2">
+                            <div class="form-group">
+                                <label for="exampleInputBorder">Conf.</label>
+
+                                <div class="input-group mb-3">
+
+                                    <input type="checkbox" name="my-checkbox" checked data-bootstrap-switch data-off-color="danger" data-on-color="success">
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label>Destino</label>
+                                <select class="select2" multiple="multiple" data-placeholder="Seleccione dependencia" style="width: 100%;">
+                                    <option>Presidencia</option>
+                                    <option>Gerencia</option>
+                                    <option>Oficina de Contabilidad</option>
+                                    <option>Oficina de Tesoreria</option>
+                                    <option>Oficina de Administracion</option>
+                                    <option>Oficina de Personal</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label>Copia a</label>
+                                <select class="select2" multiple="multiple" data-placeholder="Seleccione dependencia" style="width: 100%;">
+                                    <option>Presidencia</option>
+                                    <option>Gerencia</option>
+                                    <option>Oficina de Contabilidad</option>
+                                    <option>Oficina de Tesoreria</option>
+                                    <option>Oficina de Administracion</option>
+                                    <option>Oficina de Personal</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+
+            <div class="modal-footer justify-content-between">
+                <button id="btnCerrar" type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                <button id="btnGuardar" type="button" class="btn btn-primary toastrDefaultSuccess" onclick="Guardar()">Guardar</button>
+            </div>
+
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+
+
+

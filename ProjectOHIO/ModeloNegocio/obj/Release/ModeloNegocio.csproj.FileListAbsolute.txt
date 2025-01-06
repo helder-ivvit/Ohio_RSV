@@ -1,0 +1,75 @@
+D:\_ProyectosW\Personal_Web\Personal_Web_MVC\ModeloNegocio\bin\Release\ModeloNegocio.dll
+D:\_ProyectosW\Personal_Web\Personal_Web_MVC\ModeloNegocio\bin\Release\ModeloNegocio.pdb
+D:\_ProyectosW\Personal_Web\Personal_Web_MVC\ModeloNegocio\bin\Release\ModeloDatos.dll
+D:\_ProyectosW\Personal_Web\Personal_Web_MVC\ModeloNegocio\bin\Release\MySql.Data.dll
+D:\_ProyectosW\Personal_Web\Personal_Web_MVC\ModeloNegocio\bin\Release\ModeloDatos.pdb
+D:\_ProyectosW\Personal_Web\Personal_Web_MVC\ModeloNegocio\obj\Release\ModeloNegocio.dll
+D:\_ProyectosW\Personal_Web\Personal_Web_MVC\ModeloNegocio\obj\Release\ModeloNegocio.pdb
+D:\_ProyectosW\Personal_Web\Personal_Web_MVC\ModeloNegocio\obj\Release\ModeloNegocio.csprojAssemblyReference.cache
+D:\_ProyectosW\Personal_Web\Personal_Web_MVC\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CoreCompileInputs.cache
+D:\_ProyectosW\Personal_Web\Personal_Web_MVC\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CopyComplete
+E:\_ProyectosW\Grifos\WebGrifo\ModeloNegocio\bin\Release\ModeloNegocio.dll
+E:\_ProyectosW\Grifos\WebGrifo\ModeloNegocio\bin\Release\ModeloNegocio.pdb
+E:\_ProyectosW\Grifos\WebGrifo\ModeloNegocio\bin\Release\ModeloDatos.dll
+E:\_ProyectosW\Grifos\WebGrifo\ModeloNegocio\bin\Release\MySql.Data.dll
+E:\_ProyectosW\Grifos\WebGrifo\ModeloNegocio\bin\Release\ModeloDatos.pdb
+E:\_ProyectosW\Grifos\WebGrifo\ModeloNegocio\obj\Release\ModeloNegocio.csprojAssemblyReference.cache
+E:\_ProyectosW\Grifos\WebGrifo\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CoreCompileInputs.cache
+E:\_ProyectosW\Grifos\WebGrifo\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CopyComplete
+E:\_ProyectosW\Grifos\WebGrifo\ModeloNegocio\obj\Release\ModeloNegocio.dll
+E:\_ProyectosW\Grifos\WebGrifo\ModeloNegocio\obj\Release\ModeloNegocio.pdb
+E:\_ProyectosW\Tienda_2021\Tienda_2021\ModeloNegocio\bin\Release\ModeloNegocio.dll
+E:\_ProyectosW\Tienda_2021\Tienda_2021\ModeloNegocio\bin\Release\ModeloNegocio.pdb
+E:\_ProyectosW\Tienda_2021\Tienda_2021\ModeloNegocio\bin\Release\ModeloDatos.dll
+E:\_ProyectosW\Tienda_2021\Tienda_2021\ModeloNegocio\bin\Release\MySql.Data.dll
+E:\_ProyectosW\Tienda_2021\Tienda_2021\ModeloNegocio\bin\Release\ModeloDatos.pdb
+E:\_ProyectosW\Tienda_2021\Tienda_2021\ModeloNegocio\obj\Release\ModeloNegocio.csproj.AssemblyReference.cache
+E:\_ProyectosW\Tienda_2021\Tienda_2021\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CoreCompileInputs.cache
+E:\_ProyectosW\Tienda_2021\Tienda_2021\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CopyComplete
+E:\_ProyectosW\Tienda_2021\Tienda_2021\ModeloNegocio\obj\Release\ModeloNegocio.dll
+E:\_ProyectosW\Tienda_2021\Tienda_2021\ModeloNegocio\obj\Release\ModeloNegocio.pdb
+D:\JUCHL2021\WebPadron\ModeloNegocio\bin\Release\ModeloNegocio.dll
+D:\JUCHL2021\WebPadron\ModeloNegocio\bin\Release\ModeloNegocio.pdb
+D:\JUCHL2021\WebPadron\ModeloNegocio\bin\Release\ModeloDatos.dll
+D:\JUCHL2021\WebPadron\ModeloNegocio\bin\Release\ModeloDatos.pdb
+D:\JUCHL2021\WebPadron\ModeloNegocio\obj\Release\ModeloNegocio.csproj.AssemblyReference.cache
+D:\JUCHL2021\WebPadron\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CoreCompileInputs.cache
+D:\JUCHL2021\WebPadron\ModeloNegocio\obj\Release\ModeloNegocio.dll
+D:\JUCHL2021\WebPadron\ModeloNegocio\obj\Release\ModeloNegocio.pdb
+D:\JUCHL2021\WebPadron\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloNegocio\bin\Release\ModeloNegocio.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloNegocio\bin\Release\ModeloNegocio.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloNegocio\bin\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloNegocio\bin\Release\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.csproj.AssemblyReference.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\Visual Studio\PROJECTS\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\bin\Release\ModeloNegocio.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\bin\Release\ModeloNegocio.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\bin\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\bin\Release\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.csproj.AssemblyReference.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.dll
+C:\Users\jim86\OneDrive\Escritorio\FUENTES\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\bin\Release\ModeloNegocio.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\bin\Release\ModeloNegocio.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\bin\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\bin\Release\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.csproj.AssemblyReference.cache
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\CIXSOLUTION\DISEC\WEB DISEC\ProjectMPV\ModeloNegocio\obj\Release\ModeloNegocio.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloNegocio\bin\Release\ModeloNegocio.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloNegocio\bin\Release\ModeloNegocio.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloNegocio\bin\Release\ModeloDatos.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloNegocio\bin\Release\ModeloDatos.pdb
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloNegocio\obj\Release\ModeloNegocio.csproj.AssemblyReference.cache
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloNegocio\obj\Release\ModeloNegocio.csproj.CopyComplete
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloNegocio\obj\Release\ModeloNegocio.dll
+C:\Users\jim86\OneDrive\Escritorio\PROYECTOS\OHIO\ProjectOHIO\ModeloNegocio\obj\Release\ModeloNegocio.pdb

@@ -1,0 +1,106 @@
+﻿
+@Html.Partial("Modales")
+
+<div class="content-header" id="FrmResultadoVP">
+    <div class="container-fluid">
+
+        <div class="invoice p-3 mb-3">
+
+            <div class="row mb-2">
+                <div class="col-sm-12">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")">Home</a></li>
+                        <li class="breadcrumb-item active">Vida Universal</li>
+                    </ol>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-1">
+                    <div class="form-group">
+                        <button type="button" style="width: 100px; background-color: #0288D1; color: white; margin: 0px;" class="btn btn-block btn-sm" onclick="regresar_a_universal()">&nbsp;&nbsp;&nbsp;Regresar&nbsp;&nbsp;&nbsp;<i class="fas fa-reply"></i></button>
+                    </div>                    
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <h4><b>&nbsp;&nbsp;Resultados Valor Poliza @ViewData["busqueda_anio"]-@ViewData["busqueda_mes"]</b></h4>
+                    </div>                    
+                </div>
+
+                <input type="hidden" name="v_anio1" id="v_anio1" value="@ViewData["busqueda_anio"]" />
+                <input type="hidden" name="v_mes1" id="v_mes1" value="@ViewData["busqueda_mes"]" />
+
+                <div class="col-md-2">
+                    <div class="form-group">
+                        <select id="v_moneda1" name="v_moneda1" onchange="seleciona_moneda(this.value)" class="form-control form-control-sm select2 select2-danger" data-dropdown-css-class="select2-danger">
+                            <option value="">Moneda</option>
+                            <option selected="selected" value="S">Soles</option>
+                            <option value="D">Dolares</option>
+                        </select>
+                    </div>                    
+                </div>
+
+                <div class="col-sm-1">
+                    <div class="form-group">
+                        <button type="button" title="Exportar a excel" style="width: 100px; margin: 0px;" onclick="export_excel_g()" class="btn btn-block btn-success btn-sm"><i class="fas fa-file-excel">&nbsp;&nbsp;&nbsp;Exportar&nbsp;&nbsp;&nbsp;</i></button>
+                    </div>                    
+                </div>
+
+            </div>
+
+            @Html.Hidden("RedirectUniversal", Url.Action("Index", "Universal", new { }))
+
+            <!--
+
+        <div class="row mb-2">
+
+            <div class="col-sm-2">
+                <h4 class="m-0">Periodo 2024-03</h4>
+            </div>
+
+            <div class="col-sm-1">
+                <button type="button" style="width:100px; background-color: #F44336; color: white;" class="btn btn-block btn-sm" onclick="limpiarFormularioUniversal()">&nbsp;&nbsp;&nbsp;Regresar&nbsp;&nbsp;&nbsp;<i class="fas fa-plus"></i></button>
+            </div>
+
+            <div class="col-sm-1">
+                <button type="button" style="width:100px; background-color: #F44336; color: white;" class="btn btn-block btn-sm" onclick="limpiarFormularioUniversal()">&nbsp;&nbsp;&nbsp;Exportar&nbsp;&nbsp;&nbsp;<i class="fas fa-plus"></i></button>
+            </div>
+
+        </div>
+    -->
+
+            @Html.Partial("Listar")
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+
+    <script src="~/Scripts/ResultadoVP.js"></script>
+
+    <script>
+
+        function seleciona_moneda(valor) {
+            //alert(valor);
+            loadDataResultVP();
+        }
+
+        function regresar_a_universal() {
+            //location.href = 'Url.Action("Index", "Visita")';
+
+            var url = $("#RedirectUniversal").val();
+            //url = url.replace("100", _origen);
+            //url = url.replace("200", _busqueda);
+            //url = url.replace("300", _fini);
+            //url = url.replace("400", _ffin);
+            //url = url.replace("500", _estado);
+
+            //alert(url);
+            location.href = url;
+        }
+    </script>
+
+}
